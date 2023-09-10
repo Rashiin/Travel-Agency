@@ -1,0 +1,12 @@
+.menu{
+    background-image: url('../images/h1-student-club-single-hn.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.white-link {
+    color: white;
+}
+.menu ul>li>ul{
+    background-color: blueviolet;
+}

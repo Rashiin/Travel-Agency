@@ -1,0 +1,292 @@
+
+{
+  "menu": [
+    {
+      "name": "Explore",
+      "id": 2,
+      "children": [
+        {
+          "name": "Americas",
+          "id": 2
+        },
+          { "name": "Europe",
+            "id": 2
+          },
+          {
+            "name":"Africas",
+            "id":3
+          },
+          {
+            "name":"Middle East",
+            "id":4
+            
+          },
+          {
+            "image": "https://www.qatarairways.com/content/dam/images/renditions/vertical/destinations/tanzania/zanzibar-/v-zanzibar-primary.jpg",
+            "name":"visit here"
+          }
+          ],
+      "isLeft": true
+    },
+    {
+      "name": "Book",
+      "id": 3,
+      "children": [
+        {
+          "name": "Book",
+          "id": 2
+        },
+        {
+          "name": "Experience",
+          "id": 3
+        }
+        ,{
+          "image":"https://www.qatarairways.com/content/dam/images/renditions/vertical/privilege-club/brand/v-ffp-qdf-shopping-woman.jpg",
+          "name":"visit here"
+        }
+      ],
+      "isLeft": true
+    },
+    {
+      "name": "Experience",
+      "id": 4,
+      "isLeft": true,
+      "children":[
+        {
+          "name":"Baggage",
+          "id":5
+        },{
+          "name":"Upgrade your jurney",
+          "id":6
+        },
+        {
+          "name":"Travelling with pets",
+          "id":7
+        },
+        {
+          "image":"https://www.qatarairways.com/content/dam/images/renditions/vertical/destinations/philippines/davao/v-davao.jpg",
+          "name":"visit here"
+        }
+      ]
+    },
+    {
+      "name": "Privilege Club",
+      "id": 5,
+      "isLeft": true,
+      "children":[
+        {
+          "name":"Earn",
+          "id":6
+        },{
+          "name":"Buy",
+          "id":7
+        },
+        {
+          "name":"Cash + Avios",
+          "id":8
+        },
+        {
+          "image":"https://www.qatarairways.com/content/dam/images/renditions/vertical/brand/qsuite/v-qsuite-crew-welcome.jpg",
+          "name":"click here"
+        }
+      ]
+    },
+    {
+      "name": "EN",
+      "id": 6,
+      "isLeft": false , 
+      "children":[
+        {"name":"Ascension Island","code":"AC","emoji":"🇦🇨","unicode":"U+1F1E6 U+1F1E8","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AC.svg"},{"name":"Andorra","code":"AD","emoji":"🇦🇩","unicode":"U+1F1E6 U+1F1E9","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg"},{"name":"United Arab Emirates","code":"AE","emoji":"🇦🇪","unicode":"U+1F1E6 U+1F1EA","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg"},{"name":"Afghanistan","code":"AF","emoji":"🇦🇫","unicode":"U+1F1E6 U+1F1EB"}
+      ]
+  
+    },
+    {
+      "name": "Login | Signup",
+      "id": 7,
+      "isLeft": false
+    }
+  ],
+  "ticket": [
+    {
+      "name":"italy",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwxdGdtn_hx2ZEUBDC_xt5M1SvlpqPyNFNcdhIbBAtG9kNK63ndTwfxT2yHyF4Xl68g&usqp=CAU",
+      "location":"ca"
+    }
+  ],
+  
+    "book": [
+      {
+        "text": "Witness the excitement and speed of the world’s most prestigious motorsport with an Ultimate F1® Fan Package",
+        "click": "Book a Package",
+        "bgImage": "https://www.qatarairways.com/content/dam/images/custom/fifa-club-world-cup/f1-sponsorship-1272x175.jpg"
+      }
+    ],
+    "planning": [
+      {
+        "bgImg": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/destinations/maldives/maldives/h2-maldives-beach-sunrise.jpg",
+        "text": "Your perfect holiday awaits",
+        "link": "Book a package",
+        "symbol": "→"
+      },
+      {
+        "bgImg": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/brand/qsuite/h3-qsuite-ife-dine.jpg",
+        "text": "Eleven your flight",
+        "link": "Book a package",
+        "symbol": "→"
+      },
+      {
+        "bgImg": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/miscellaneous/map/h2-destination-discovery-map-laptop.jpg",
+        "text": "Explore our Destinations",
+        "link": "Find flights and fares",
+        "symbol": "→"
+      },
+      {
+        "bgImg": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/brand/aircraft/a350/h3-a350-1000-doha2.jpg",
+        "text": "Travel Requirements",
+        "link": "Find out More",
+        "symbol": "→"
+      }
+    ],
+    "Explore": [
+      {
+        "name": "Doha",
+        "image": "https://static.independent.co.uk/2023/08/04/11/iStock-509804615.jpg",
+        "details": "Downtown Doha by the waterfront..."
+      },
+      {
+        "location": "London",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg",
+        "details": "Big Ben, Buckingham Palace, London Eye..."
+      },
+      {
+        "location": "Paris",
+        "image": "https://media.cntraveler.com/photos/63ebc6d5e5c30f2b2ef06794/1:1/w_1280%2Ch_1280%2Cc_limit/Paris_GettyImages-183109547.jpg",
+        "details": "Eiffel Tower, Notre Dame Cathedral, Champs-Elysées..."
+      },
+      {
+        "location": "Rome",
+        "image": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1612861925/iiywrei0vyu1zk4cthai.jpg",
+        "details": "Colosseum, Trevi Fountain, Vatican City..."
+      },
+      {
+        "location": "New York",
+        "image": "https://www.vaegbillederxxl.dk/webshop/TAPETE/Wallpaper-New-York-Sky--T_bigapple2_0.jpg",
+        "details": "Times Square, Statue of Liberty, Central Park..."
+      }
+    ],
+      "cities": [
+        { "name": "New York" },
+        { "name": "Los Angeles" },
+        { "name": "Chicago" },
+        { "name": "Houston" },
+        { "name": "San Francisco" },
+        { "name": "Miami" }
+
+      ]
+    ,
+    "slider":[
+      {
+        "img":"https://q-xx.bstatic.com/xdata/images/xphoto/263x210/57584488.jpeg?k=d8d4706fc72ee789d870eb6b05c0e546fd4ad85d72a3af3e30fb80ca72f0ba57&o=",
+        "text":"Hotels",
+        "coast":"1,003,585 hotels"
+
+      },
+      {
+        "img":"https://r-xx.bstatic.com/xdata/images/hotel/263x210/119467716.jpeg?k=f3c2c6271ab71513e044e48dfde378fcd6bb80cb893e39b9b78b33a60c0131c9&o=",
+        "text":"Apartments",
+        "coast":"2,203,905 Apartments"
+
+      },
+      {
+        "img":"https://q-xx.bstatic.com/xdata/images/xphoto/263x210/45450084.jpeg?k=f8c2954e867a1dd4b479909c49528531dcfb676d8fbc0d60f51d7b51bb32d1d9&o=",
+        "text":"Resorts",
+        "coast":"19,980 resorts"
+
+      },
+      {
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/263x210/100235855.jpeg?k=5b6e6cff16cfd290e953768d63ee15f633b56348238a705c45759aa3a81ba82b&o=",
+        "text":"Villas",
+        "coast":"660,779 Villas"
+
+      },
+      {
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/263x210/52979454.jpeg?k=6ac6d0afd28e4ce00a8f817cc3045039e064469a3f9a88059706c0b45adf2e7d&o=",
+        "text":"Cabins",
+        "coast":"47,745 cabins"
+
+      },
+      {
+        "img":"https://r-xx.bstatic.com/xdata/images/xphoto/263x210/45450074.jpeg?k=7039b03a94f3b99262c4b3054b0edcbbb91e9dade85b6efc880d45288a06c126&o=",
+        "text":"Cottages",
+        "coast":"719,138 cottages"
+
+      }
+      
+    ],
+    "miss":[
+      {
+        "bgImage":"https://www.qatarairways.com/content/dam/images/custom/enl-subscribe-component/NL_BG_Mobile2.png",
+        "bold":"Never miss an offer",
+        "text":"Subscribe and be the first to receive our exclusive offers.",
+        "link":"Subscribe"
+      }
+    ],
+    "sub": [
+      {
+        "bold": "Save time, save money!",
+        "text": "Sign up and we'll send the best deals to you"
+      }
+    ],
+    
+    "footer":[
+      {
+        "text":"About Us",
+        "id":1
+      },
+      {
+        "text":"Awards",
+        "id":2
+      },
+      {
+        "text":"Careers",
+        "id":3
+      },
+      {
+        "text":"Sponsorship",
+        "id":4
+      },{
+        "text":"Qatar Executive",
+        "id":5
+      },
+      {
+        "text":"Group companies",
+        "id":6
+      },
+      {
+        "text":"Duty Free",
+        "id":7
+      },
+      {
+        "text":"Corporate travel"
+        ,"id":8
+      },
+      {
+        "text":"AI Drap",
+        "id":9
+      },
+      {
+        "text":"contact Us",
+        "id":10
+      },
+      {
+        "text":"Travel alernt",
+        "id":11
+      },
+      {
+        "text":"Trade partners",
+        "id":12
+      }
+    ]
+  
+}
+  

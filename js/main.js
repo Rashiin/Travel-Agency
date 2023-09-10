@@ -1,0 +1,22 @@
+// import './server.js';
+import Menu from "./Menu.js";
+import Ticket from "./ticket.js";
+import Book from "./Book.js";
+import Planning from "./Planning.js";
+import Explore from "./Explore.js";
+import Search from "./Search.js";
+import Miss from "./Miss.js";
+import Subscribe from "./Subscribe.js";
+import createFooter from "./Footer.js";
+import Slider from "./Slider.js";
+
+Menu();
+Ticket();
+Book();
+Planning();
+Explore();
+Search();
+Miss();
+Subscribe();
+createFooter();
+Slider();
